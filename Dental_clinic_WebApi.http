@@ -1,0 +1,6 @@
+@Dental_clinic_WebApi_HostAddress = http://localhost:5096
+
+GET {{Dental_clinic_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
